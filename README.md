@@ -1,0 +1,2 @@
+## Investigation: Multivariate Imputation with Scikit-learn
+Missing data is one of the most common problems a data scientist would encounter in data analysis. A couple quick solutions to deal with missing values are "remove the observations with missing values from the dataset" or "fill in the missing values with the mean, median, or mode". However, how good are these quick fixes? Can we do better? For my investigation, I look into how we can fill in missing values based on information from the other variables in the data set (multivariate imputation). 
